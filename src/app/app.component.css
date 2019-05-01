@@ -1,0 +1,9 @@
+.navigation {
+    padding: 1em;
+    background-color: #eee;
+    margin: 0;
+}
+.navLink {
+    text-decoration: none;
+    font-size: 1.5em;
+}
